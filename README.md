@@ -20,4 +20,4 @@ I'm a full stack developer,Currently pursuing my 4th year B.E .
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-mahatpure-b991451a4/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__msdian07___/)
-[![Gmail Badge](https://img.shields.io/badge/Aditya-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adityamahatpure05@gmail.com)](mailto:adityamahatpure05@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adityamahatpure05@gmail.com)](mailto:adityamahatpure05@gmail.com)
