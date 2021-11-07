@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a full stack developer,Currently pursuing my 4th year B.E . 
+Hello Everyone myself Aditya Mahatpure currently pursuing my B.E 4th year .
 
 
 ## 🛠 Skills
